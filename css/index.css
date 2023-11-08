@@ -35,6 +35,7 @@ padding: 10px 0;
 .navList > li{
     list-style: none;
     font-size: 14px;
+    color:red;
 }
 .navList > li + li{
     margin-left: 15px;
